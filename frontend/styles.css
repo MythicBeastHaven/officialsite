@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://github.com/MythicBeastHaven/officialsite/blob/main/public/fondo.png'); /* Ruta relativa a la carpeta de estilos */
+    background-image: url('https://raw.githubusercontent.com/MythicBeastHaven/officialsite/main/public/fondo.png'); /* Ruta relativa a la carpeta de estilos */
 }
 
 .container {
